@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leviathan-developer&label=Profile%200views&color=0e75b6&style=flat" alt="leviathan-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leviathan-developer&label=Profile%20000views&color=0e75b6&style=flat" alt="leviathan-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leviathan-developer" alt="leviathan-developer" /></a> </p>
 
