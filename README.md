@@ -30,9 +30,9 @@
 
 ## ⚡ Quick Links
 
-- 🔗 [My Website](https://yourwebsite.vercel.app)
-- 📫 DM me on [Instagram](https://instagram.com/yourhandle) or drop an issue in any repo.
-- 🧠 Motto: *"Build. Learn. Repeat."*
+- 🔗 [My Website](https://leviathan-developer.vercel.app)
+- 📫 DM me on [Discord](https://discord.com/users/1050246230787235900) or drop an issue in any repo.
+- 🧠 Plan: *"Build. Learn. Repeat."*
 
 ---
 
