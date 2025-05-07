@@ -2,7 +2,7 @@
 
 # Hey, I'm Leviathan 👋
 
-🎯 I'm a focused web developer always focused on building cool, fast, and useful stuff.  
+🎯 I'm a full-stack web developer always focused on building cool, fast, and useful stuff.  
 💼 Currently working on, idk anything that feels ok.  
 🌱 Always learning.
 
