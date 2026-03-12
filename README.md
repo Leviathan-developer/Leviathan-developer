@@ -1,6 +1,6 @@
 <img src="banner.webp" alt="GitHub Banner" width="100%" />
 
-<div align="left">
+<div align="center">
 
 # Hey, I'm Leviathan,
 
@@ -31,7 +31,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats:
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ Quick Links
+## Quick Links:
 
 - [Portfolio](https://leviathan-developer.vercel.app)
 - [Discord](https://discord.com/users/1050246230787235900)
