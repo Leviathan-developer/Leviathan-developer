@@ -7,10 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-leviathan--developer.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://leviathan-developer.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-DM%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1050246230787235900)
 
-🎯 Full-stack web developer building cool, fast, and useful stuff.
-💼 Currently working on whatever feels interesting.
-🌱 Always learning. Always shipping.
-
 </div>
 
 ---
@@ -43,16 +39,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leviathan-developer&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Feasty](https://feasty.co) | Platform connecting food truck owners with customers digitally | React, Node.js, MongoDB |
-| [Chess from Scratch](https://github.com/Leviathan-developer/Chess) | Full chess game with all rules, built in Python CLI | Python |
-| [Reverse TCP Shell](https://github.com/Leviathan-developer/Reverse-TCP-Shell) | Reverse TCP connection — deep dive into networking & cybersecurity | Python, Sockets |
 
 ---
 
