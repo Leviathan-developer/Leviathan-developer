@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Leviathan 👋
+# Hey, I'm Leviathan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leviathan--developer.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://leviathan-developer.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-DM%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1050246230787235900)
@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack:
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -45,8 +45,7 @@
 ## ⚡ Quick Links
 
 - 🔗 [Portfolio](https://leviathan-developer.vercel.app)
-- 💬 [Discord](https://discord.com/users/1050246230787235900)
-- 🧠 *"Build. Learn. Repeat."*
+- [Discord](https://discord.com/users/1050246230787235900)
 
 ---
 
