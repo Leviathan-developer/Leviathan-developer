@@ -1,8 +1,8 @@
 <img src="banner.webp" alt="GitHub Banner" width="100%" />
 
-<div align="center">
+<div align="left">
 
-# Hey, I'm Leviathan
+# Hey, I'm Leviathan,
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leviathan--developer.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://leviathan-developer.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-DM%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1050246230787235900)
@@ -13,7 +13,7 @@
 
 ## Tech Stack:
 
-<div align="center">
+<div align="left">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -44,7 +44,7 @@
 
 ## ⚡ Quick Links
 
-- 🔗 [Portfolio](https://leviathan-developer.vercel.app)
+- [Portfolio](https://leviathan-developer.vercel.app)
 - [Discord](https://discord.com/users/1050246230787235900)
 
 ---
